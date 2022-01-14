@@ -78,3 +78,6 @@ ssh-keygen -t rsa -C "1961879865@qq.com"
 > Port 443
 > ```
 
+### SSH推送代码
+> git remote add origin git@github.com:er2q/mmcv_study.git
+> git push -u origin master
