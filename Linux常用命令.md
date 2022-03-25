@@ -3,3 +3,7 @@
 ls |head -n N|xargs -i cp {} /home/autoware/workplace
 ```
 > N 是文件个数
+#### 开机时间
+```
+who -b
+```
